@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Batik bundle for DBeaver SVG format support
 Bundle-SymbolicName: org.jkiss.bundle.apache.batik;singleton:=true
-Bundle-Version: 1.9
+Bundle-Version: 1.9.1
 Bundle-ClassPath: lib/batik-all-1.9.jar,
  lib/xmlgraphics-commons-2.2.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
